@@ -1,2 +1,12 @@
 https://www.git-tower.com/learn/git/ebook/en/command-line/basics/starting-with-an-unversioned-project#start
 
+I used:
+git init
+.gitignore
+git add -A
+git commit -m "commit message"
+git push
+git pull
+
+Next time:
+Branching and merging!
