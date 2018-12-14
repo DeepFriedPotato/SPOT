@@ -1,0 +1,11 @@
+HELLO
+
+This file is added from iSH emulating Alpine Linux on the iPad 
+Pro.
+
+Edited in nano.
+
+For some reason Ctrl+[RIGHT ARROW] is not working.
+Well I think a lot of things are broken in this nano.
+
+
