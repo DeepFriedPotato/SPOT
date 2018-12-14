@@ -10,3 +10,7 @@ git pull
 
 Next time:
 Branching and merging!
+
+Also, git asks for GitHub username and password every time I do 
+"git push". Fix that.
+
